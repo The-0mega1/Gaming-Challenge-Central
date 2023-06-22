@@ -1,5 +1,6 @@
 # Welcome to GCCentral!
 Gaming Challenge Central started off as a thing called "Fun GTAV Challenges to cure your boredom". Fun GTAV Challenges mysteriously disappeared one day, and today i want to revisit that idea. With Gaming Challenge Central (or GCCentral for short). i was originally going to make it a thing og blogger, but then i had an idea: "What if i took it to the Triple W and made it into it's own full blown website?"
+
 I have a whole host of stuff on the list of stuff that needs inclusion, too: 
 
 	Home Page: The main landing page of GCCentral that provides an overview of the platform, its purpose, and highlights the key features and benefits for users.
